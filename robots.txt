@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fin-tech.co.uk/sitemap.xml
